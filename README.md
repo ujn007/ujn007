@@ -1,3 +1,5 @@
+![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=WAVE)
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
