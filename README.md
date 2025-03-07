@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=!멈추지%20않는%20개발자!&fontAlign=50&fontAlignY=40&fontSize=50&color=gradient)
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
