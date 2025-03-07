@@ -6,15 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=저는%20경기게임마이스터고등학교에%20재학중인;3학년%20꾸준한%20개발자%20김현준%20입니다.;Unity를%20활용해%20클라이언트%20개발을;중심적으로%20하고있습니다.%20 :)&font=D2Coding%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://github.com/ujn007">
-    <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1DNsfskjJtWhewcdCt8_4spNsZf7lmL3wKQ&s"/>
-  </a>
-  <a href="https://surf-swordfish-50e.notion.site/5e379b2da23145dd99c562c5a08c79fc?v=2f7a4efc011d4748aedaa3f6b1e32451">
-    <img height="50" src="https://cdn.digitaltoday.co.kr/news/photo/202006/238991_209673_5157.png"/>
-  </a>
-</div>
-
 ---
 
 # 기술 스택
