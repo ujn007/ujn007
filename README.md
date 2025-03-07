@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=black&height=100"/>
-</p>
-
-<p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=저는%20경기게임마이스터고등학교에%20재학중인;3학년%20꾸준한%20개발자%20김현준%20입니다.;Unity를%20활용해%20클라이언트%20개발을;중심적으로%20하고있습니다.%20 :)&font=D2Coding%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" /></a>
