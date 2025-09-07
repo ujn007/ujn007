@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=!멈추지%20않는%20개발자!&fontAlign=50&fontAlignY=40&fontSize=50&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=!같이의%20가치를%20아는%20개발자!&fontAlign=50&fontAlignY=40&fontSize=50&color=gradient)
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -16,7 +16,7 @@
 
 ![C++](https://img.shields.io/badge/C++-0080FF?style=for-the-badge&logo=C++$&logoColor=white) **중**
 
-![C](https://img.shields.io/badge/C-0080FF?style=for-the-badge&logo=C&logoColor=white) **중**
+![C](https://img.shields.io/badge/C-0080FF?style=for-the-badge&logo=C&logoColor=white) **하**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) **하**
 
@@ -27,25 +27,15 @@
 # Unity
 * __3D 게임 개발하는 것을 좋아합니다__
 * __모바일 게임 개발하는 것을 좋아합니다__
-* **가장 자신 있는 역할은 다 자신 있습니다!**
+* **여러 시스템 구조를 경험해 보았습니다**
 
 # 취미
-* **처음에는 2D 게임에 관심을 많이 가졌지만 지금은 3D 게임에 더욱 관심을 많이 가지고 있습니다.**
+* **여러 프로젝트를 개발해보며 경험 쌓는것을 좋아합니다**
 * **유니티의 구조 배우기 입니다**
 
 # 특기
 * **한번 배워본 하나의 코드나 구조등을 다재다능하게 사용 할 수 있습니다**
 * **한번 재미를 붙이면 몇시간이든 계속 할 수 있습니다**
-
-</div>
-
----
-
-<div align="center">
-
-**!!!저의 백준 티어입니다!!!**
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ujn07)](https://solved.ac/ujn07/)
 
 </div>
 
@@ -67,9 +57,11 @@
 
 # 🏆 Awards 
 
+### 2025 KWC "금상"
+### 2024 동계 게임잼 "대상"
+### 2024-2학기 게임프로젝트 "2등"
+### 2024-1학기 게임프로젝트 "우수작"
 ### 2023 1학기 협력부문 표창장  
-### 2024 동계 게임잼 !대상!  
-### 2024-2학기 게임프로젝트 !2등!  
 
 # 💪 보유 자격증  
 
