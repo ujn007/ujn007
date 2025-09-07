@@ -9,12 +9,12 @@
 ---
 
 # 기술 스택
-![C++](https://img.shields.io/badge/C++-0080FF?style=for-the-badge&logo=C++$&logoColor=white) **상**
-
 ![C#](https://img.shields.io/badge/C%23-CC2EFA?style=for-the-badge&logo=c-sharp&logoColor=white) **상**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 **상**
+
+![C++](https://img.shields.io/badge/C++-0080FF?style=for-the-badge&logo=C++$&logoColor=white) **중**
 
 ![C](https://img.shields.io/badge/C-0080FF?style=for-the-badge&logo=C&logoColor=white) **중**
 
